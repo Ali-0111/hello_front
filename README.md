@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello--rails-react] <a name="about-project"></a>
+# 📖 hello-react <a name="about-project"></a>
 This project will dispaly 5 different and random greetings to user.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -283,4 +283,4 @@ If you like this project give it a star ⭐️
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
