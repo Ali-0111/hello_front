@@ -1,0 +1,8 @@
+app/assets
+app/controllers
+app/helpers
+app/javascript/controllers
+app/javascript/application.js
+app/jobs
+app/models
+app/views
